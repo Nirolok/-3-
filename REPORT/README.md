@@ -2,7 +2,7 @@
 
 Для начала создаём три виртуальные машины и NAT сеть, в качестве IPv4 префикса которой используем 192.168.100.0/24. Все машины необходимо подключить к созданой сети(что мы и делаем).
 
-![image](https://github.com/cs-itmo-2023/lab-3-Nirolok/assets/40453222/c91319aa-7291-40ee-80a1-320d2643d973)
+![image](https://github.com/assets/40453222/c91319aa-7291-40ee-80a1-320d2643d973)
 
 ![image](https://github.com/cs-itmo-2023/lab-3-Nirolok/assets/40453222/130f85ef-d83c-4fff-be7d-ffb9589e1f9f)
 
